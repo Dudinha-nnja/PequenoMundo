@@ -1,10 +1,16 @@
+<br>
+
+<h2 align="center"> Status do Projeto</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EM-DESENVOLVIMENTO-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="status do projeto">
+</p>
+<P> Apenas a parte do front-end está concluída. A integração com o back-end e funcionalidades avançadas serão implementadas futuramente.
+</P>
+<br>
 #  Pequeno Mundo
 
 **Pequeno Mundo** é um projeto de front-end voltado para moda infantil, desenvolvido com foco em proporcionar uma experiência visual agradável, acessível e amigável. O design foi baseado em um protótipo de alta fidelidade criado no Figma, garantindo uma identidade visual consistente e moderna.
-
-##  Status do Projeto
-
-**Em desenvolvimento** — apenas a parte do front-end está concluída. A integração com o back-end e funcionalidades avançadas serão implementadas futuramente.
 
 ##  Tecnologias Utilizadas
 
