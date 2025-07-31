@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DESENVOLVIMENTO-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="status do projeto">
 </p>
+<br>
 <P> Apenas a parte do front-end está concluída. A integração com o back-end e funcionalidades avançadas serão implementadas futuramente.
 </P>
 <br>
