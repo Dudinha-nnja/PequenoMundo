@@ -61,13 +61,13 @@ Este projeto é de uso pessoal/educacional.
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a982e8b3-75b5-4ed2-b606-fbc799a53709" />
 <br>
-## Destaques
+<h3>Destaques</h3>
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e9063a8e-25ae-41cb-9196-2bb5c37e7118" />
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87476ada-e39b-4cc1-b6f6-3b5d24f5adcb" />
 <br>
-## Categoria: Meninos
+<h3>Categoria: Meninos</h3>
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab510172-158a-4b5e-ab18-ff28d4d91293" />
 <br>
@@ -75,13 +75,13 @@ Este projeto é de uso pessoal/educacional.
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27ff7157-e9cb-4c65-a22b-8ed6f2ba42b7" />
 <br>
-## Categoria: Meninas
+<h3>Categoria: Meninas</h3>
 <br>
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/048a23d8-763e-402f-baad-1586274c066b" />
 <br>
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68cdbe6c-6d5c-44dc-a22f-7ebfd7fd9c9b" />
  <br>
-## Carrinho 
+<h3>Carrinho</h3>
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60436e2d-8792-42f2-aff1-f83ad3a22cf7" />
 <br>
@@ -89,13 +89,13 @@ Este projeto é de uso pessoal/educacional.
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45abbfc9-4e2a-4cf1-8b2d-4790250b4485" />
 <br>
-## Perfil 
+<h3>Perfil</h3>
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52ac3d80-7967-4914-8514-f53f64d37b5a" />
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab039a9c-eaf4-4647-882e-fcbaa197bbd7" />
 <br>
-## Login/Cadastro
+<h3>Login/Cadastro</h3>
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47985415-9287-4449-ba42-a0d8b2ef608c" />
 <br>
