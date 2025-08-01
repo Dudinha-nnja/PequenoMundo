@@ -46,7 +46,7 @@ const produtos = [
     descricao: "Conjunto de verão com blusa e short coloridos com estampa divertida.",
     imagem: "../img/feminino/5.png",
     categoria: "menina",
-    tamanhos: ["4", "6", "8", "10"],
+    tamanhos: ["P", "PP", "G", "GG"],
     cores: ["#f04e75", "#ffb300", "#8c48f5"]
   },
   {
