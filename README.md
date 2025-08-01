@@ -53,7 +53,7 @@ Este projeto é de uso pessoal/educacional.
 - **Milena Stéfany Neves Guimarães**
 
 ## Imagens do Site
-## Index
+<h3> Index </h3>
 <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/099b183d-58f4-4aab-adf6-94cc4d54457b" />
 <br>
